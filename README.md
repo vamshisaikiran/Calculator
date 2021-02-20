@@ -3,4 +3,4 @@
 Created with HTML, CSS, JavaScript
 
 ## Try it here
-[App] (https://vamshisaikiran.github.io/Calculator/)
+[Calculator](https://vamshisaikiran.github.io/Calculator/)
